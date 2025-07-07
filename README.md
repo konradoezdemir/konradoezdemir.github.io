@@ -36,7 +36,7 @@ Hello! I’m **Konrad**, a Ph.D. researcher at the Chair of Artificial Intellige
 
 ## Get in Touch
 
-* **Email:** `konrad.oezdemir@uni-mannheim.de`
+* **Email:** `konrad.oezdemir_at_uni-mannheim.de`
 * **GitHub:** [github.com/konradoezdemir](https://github.com/konradoezdemir)
 * **LinkedIn:** [linkedin.com/in/konradoezdemir/](https://www.linkedin.com/in/konradoezdemir/)
 
