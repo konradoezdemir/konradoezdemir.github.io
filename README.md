@@ -10,8 +10,8 @@ Hello! I’m **Konrad**, a Ph.D. researcher at the Chair of Artificial Intellige
 * **Sales-Demand Forecasting** projects with industrial partners
 * **Latest Works:**
 
-  * *A Divide-and-Conquer Approach for Modeling Arrival Times in Business Process Simulation* (BPM Main 2025)
-  * *Rethinking Business Process Simulation: A Utility-Based Evaluation Framework* (BPM Forum 2025)
+  * "A Divide-and-Conquer Approach for Modeling Arrival Times in Business Process Simulation" (with Lukas Kirchdorfer, Stjepan Kusenic, Han van der Aa and Heiner Stuckenschmidt), BPM Main 2025
+  * "Rethinking Business Process Simulation: A Utility-Based Evaluation Framework" (with Lukas Kirchdorfer, Keyvan Amiri-Elyasi, Han van der Aa and Heiner Stuckenschmidt) , BPM Forum 2025
 
 ---
 
